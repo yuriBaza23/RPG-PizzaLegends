@@ -11,12 +11,7 @@
 </p>
 
 ## Sobre
-
-
-## Features
-
-
-## :warning: Arquivos importantes
+Esse projeto foi idealizado por  **Drew Conley** onde, basicamente, programa um RPG no estilo do clássico jogo Pokémon Red/Blue. O projeto foi usado por mim como estudo da tag Canvas do HTML e para relembrar alguns conceitos do Javascript.
 
 -----------------
 
